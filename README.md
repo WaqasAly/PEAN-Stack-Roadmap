@@ -79,4 +79,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-### ✨ Made with effort and coffee by [Your Name](https://github.com/your-username)
+### ✨ Made with effort and coffee by [Waqas Rashid](https://github.com/WaqasAly)
